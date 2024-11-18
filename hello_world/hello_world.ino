@@ -7,4 +7,7 @@ void setup() {
 void loop() {
   char val = Serial.read();
   Serial.println(val);
+
 }Hello Ashutosh
+
+}
